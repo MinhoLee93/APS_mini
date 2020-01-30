@@ -56,7 +56,6 @@
 --------
     - 개발당시 16:9 화면비의 모니터에 맞춰서 개발했습니다.
     - @media query로 인해 노트북 등의 작은 화면에서는 tag들의 배치가 불안정할 수 있습니다. 
-    - Routing model을 불러올때 에러가 생길 수 있습니다. (에러 발생시 기존 화면으로 redirect 설정되어 있습니다.)
     - BOM 및 Product view의 exel file upload는 defined된 형태로 전처리가 완료된 파일밖에 upload되지 않습니다.
     - 사용자 인증은 Session을 사용했습니다.
     - 로그인 및 사용자 인증관련 모듈은 MVC로 구현되어 있습니다.
